@@ -1,3 +1,3 @@
 # DaVinci Resolve Reference Manuals
 
-These are DaVinci Resolve reference manuals as published by Blackmagic Design. Alongside full versions, there're extracted parts for each section of the manual. Contents of these documents are not modified or altered in any way are presented exactly as published by the vendor.
+These are DaVinci Resolve reference manuals published by Blackmagic Design. In addition to the full versions, there are extracted parts for each section of the manual. The contents of these documents are not modified or altered in any way and are presented exactly as published by the vendor.
